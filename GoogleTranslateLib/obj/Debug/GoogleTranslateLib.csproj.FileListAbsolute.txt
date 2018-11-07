@@ -1,0 +1,9 @@
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\bin\Debug\GoogleTranslateLib.dll
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\bin\Debug\GoogleTranslateLib.pdb
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\obj\Debug\GoogleTranslateLib.csproj.CoreCompileInputs.cache
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\obj\Debug\GoogleTranslateLib.csproj.CopyComplete
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\obj\Debug\GoogleTranslateLib.dll
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\obj\Debug\GoogleTranslateLib.pdb
+D:\PROJECT\C#\WF\GoogleTranslate.App\GoogleTranslateLib\obj\Debug\GoogleTranslateLib.csprojAssemblyReference.cache
